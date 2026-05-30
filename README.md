@@ -273,7 +273,7 @@ The dashboard provides stakeholders with actionable insights to improve financia
 
 ## Overview Analysis Dashboard
 
-![Overview Dashboard](Finance_Overview_Dashboard.png)
+![Overview Dashboard]([Finance_Overview_Dashboard.png](https://github.com/abhayshub/Finance-Analysis-PowerBI-Dashboard/blob/main/overview%20Analysis.png))
 
 ### Key Insights
 
@@ -289,7 +289,7 @@ The dashboard provides stakeholders with actionable insights to improve financia
 
 ## Transactions Analysis Dashboard
 
-![Transactions Dashboard](Finance_Transactions_Dashboard.png)
+![Transactions Dashboard](https://github.com/abhayshub/Finance-Analysis-PowerBI-Dashboard/blob/main/Transactions.png)
 
 ### Key Insights
 
