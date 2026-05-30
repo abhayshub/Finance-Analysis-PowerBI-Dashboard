@@ -1,7 +1,5 @@
 # 💰 Finance Analysis Dashboard
 
-## Recommended Structure and Order
-
 ### 1. Project Title / Headline
 
 # 📊 Finance Analysis Dashboard: Transaction, Customer & Revenue Insights
@@ -273,7 +271,7 @@ The dashboard provides stakeholders with actionable insights to improve financia
 
 ## Overview Analysis Dashboard
 
-![Overview Dashboard]([Finance_Overview_Dashboard.png](https://github.com/abhayshub/Finance-Analysis-PowerBI-Dashboard/blob/main/overview%20Analysis.png))
+![Overview Dashboard](https://github.com/abhayshub/Finance-Analysis-PowerBI-Dashboard/blob/main/overview%20Analysis.png)
 
 ### Key Insights
 
